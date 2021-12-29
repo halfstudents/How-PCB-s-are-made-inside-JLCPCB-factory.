@@ -107,7 +107,7 @@ $2 for 5 PCB:
 
 JLCPCB provides 5 pieces of 2 layered PCB just for $2. I think this is the best deal because other PCB manufacturers cost us around $10 for the same PCB quantity and quality.
 
-$5 for 4 layer PCB:  https://jlcpcb.com/IAT
+AND now $2 for 4,6 layer PCB:  https://jlcpcb.com/IAT
 More the layers more are the circuit complexity. JLCPCB is making efforts of doing its best in this price range. Of course, we will get superior quality products.  
 
 More Services from JLCPCB:
